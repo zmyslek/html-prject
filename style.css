@@ -37,7 +37,6 @@ li{
 }
 button{
   border-color:black;
-  background-style: inset;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -61,7 +60,6 @@ button{
 .start h1{
   font-weight: bold;
   color: black;
-  font-opacity: 1;
 }
 .menu{
   background-color: #333;
