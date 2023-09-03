@@ -10,8 +10,6 @@ body{
 h1{
   text-align: center;
   font-size: 60px;
-  font-weight: bold;
-  color: #333;
 }
 h2{
   margin-left: 2.5%;
@@ -51,14 +49,12 @@ button{
 .start{
   margin-top: 44px;
   background-image: url(photo.png);
-  z-index: 1;
   background-size: 100%;
   padding: 325px 200px;
   background-position: center;
   background-repeat: no-repeat;
 }
 .start h1{
-  font-weight: bold;
   color: black;
 }
 .menu{
